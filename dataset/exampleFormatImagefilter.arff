@@ -1,0 +1,12 @@
+@relation butterfly_vs_owl
+@attribute filename string
+@attribute class {BUTTERFLY,OWL}
+@data
+test1.jpg,OWL
+test2.jpg,OWL
+test3.jpg,OWL
+test4.jpg,BUTTERFLY
+test5.jpg,OWL
+test6.jpg,BUTTERFLY
+
+
